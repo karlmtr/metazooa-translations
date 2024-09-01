@@ -5,7 +5,8 @@
     "name": "almond",
     "parent": 3754,
     "name_es": "almendra",
-    "name_de": "Mandel"
+    "name_de": "Mandel",
+    "name_fr": "amande"
   },
   {
     "node": 3752,
@@ -13,7 +14,8 @@
     "name": "apple",
     "parent": 3749,
     "name_es": "manzana",
-    "name_de": "Apfel"
+    "name_de": "Apfel",
+    "name_fr": "pomme"
   },
   {
     "node": 36596,
@@ -21,7 +23,8 @@
     "name": "apricot",
     "parent": 3754,
     "name_es": "albaricoque",
-    "name_de": "Aprikose"
+    "name_de": "Aprikose",
+    "name_fr": "abricot"
   },
   {
     "node": 4686,
@@ -29,7 +32,8 @@
     "name": "asparagus",
     "parent": 4685,
     "name_es": "espárragos",
-    "name_de": "Spargel"
+    "name_de": "Spargel",
+    "name_fr": "asperge"
   },
   {
     "node": 3435,
@@ -37,7 +41,8 @@
     "name": "avocado",
     "parent": 3434,
     "name_es": "palta",
-    "name_de": "Avocado"
+    "name_de": "Avocado",
+    "name_fr": "avocat"
   },
   {
     "node": 13216,
@@ -45,7 +50,8 @@
     "name": "black pepper",
     "parent": 13215,
     "name_es": "pimienta negra",
-    "name_de": "Schwarzer Pfeffer"
+    "name_de": "Schwarzer Pfeffer",
+    "name_fr": "poivre noir"
   },
   {
     "node": 3645,
